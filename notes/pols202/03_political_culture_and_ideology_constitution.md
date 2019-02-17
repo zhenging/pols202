@@ -1,16 +1,59 @@
-### 03 Political Culture and Ideology; Compromises at the Constitution
+## 03 Political Culture and Ideology; Compromises at the Constitution
 
-#### Political Culture and Ideology
+### Political Culture and Ideology
 
-#### Lecture - Articles of Confederate & Compromises at the Constitution
+### Reading - Chapter 2: The U.S. System of Constitutional Government
+
+#### 2.0 The Constitution and Constitutional Government
+
+#### 2.1 The Constitution and Constitutional Government
+
+#### 2.2 The Rule of Law
+
+#### 2.3 Is the Rule of Law Part of the American Creed?
+
+#### 2.4 The Founding Era
+
+#### 2.5 The Articles of Confederation
+The first Americna form of government was the _Articles of Confederation_.
+  + Second Article - Each state retains its sovereignty
+  + Third Article - States severally enter into a firm league of friendship with each other.
+
+In a Confederation, political power is decentralized because the central government is weak and the state or regional governments are strong. The Articles has five major defects:
+1\. _Taxing_. The national government did not have the power to tax.
+2\. _Executive_. No executive branch, no judical branch. A representative body had the most power.
+3\. _Commerce_. Discriminateing out of state or foreign business interests.
+4\. _Amendment_. Unanimous consent is difficult to archieve.
+5\. _Domestic Order_. Ineffectual response to domestic disturbances such as Shay's Rebellion and secessionist movement.
+
+#### 2.5 The Constitution
+
+Federalists vs Anti-federalists
++ Federalists supported ratification because they believe that the country needed a stronger national government. ("The Federalist Papers")
++ The Anti-federalists opposed ratification because they believe that it gave the national government too much power. ("Anti-federalist Papers")
+
+##### 2.51 The Three Functions of the Constitution
+1\. Establish the basic framework of government.
+2\. Allocate Power
+3\. Guarantee Individual Rights (or Freedoms)
+
+##### 2.52 The Bill of Rights
+The first ten amendment to the Constituion, commonly referred to as the _Bill of Rights_, provided for individual rights.
+
+
+#### 2.6 The Constitutionlism
+
+#### 2.7 Continuity
+Compare the Constitution to other constitutions. (state constitutions, constitutions of other countries)
+
+#### 2.8 Summary
+
+#### 2.9 Additional Resources
+
+### Lecture - Articles of Confederate & Compromises at the Constitution
 
 **Primary Goal**: Describe the origin and development of the Constitution.
 
-##### Articles of Confederation
-+ A congress was to be the chief agency of government. No executive branch, no judical branch.
-+ Under the Articles, congress was severely constrained. Power resided in the states rather than a national government.
-  + Financial instability. (conflicting laws regarding tarifff by each state)
-  + Shays’s Rebellion
 
 ##### A Constitutional Convention is Called
 The Dilemma:
