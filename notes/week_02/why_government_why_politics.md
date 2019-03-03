@@ -1,8 +1,9 @@
-### 02 Political Theory - State of ature
+## Why Government? Why Politics?
 
-#### Reading - Why Government? Why Why Politics?
+>Reading
+Why Politics Why Government - Lenz & Holman
 
-##### 1.0 What is Government?
+#### 1.0 What is Government?
 In the US, government includes the national government institution (Congress, the Presidency, the federal courts, and a broad range of courts), the 50 state government (state legislatures, governors, state courts, and state bureaucracies), and the local government(counties, cities, and other special government units such as school boards).
 
 1.10 Why Government?
@@ -29,7 +30,7 @@ In the US, government includes the national government institution (Congress, th
   + _Restorative Justice_ emphasizes the importance of restoring the victim and rehibilitating the offender.
   + _Distributive Justice_ is concerned with the proper distribution of values or valuables among the individual or groups in a society. (Income, wealth, food, health care, tax break, or property). (Who gets what and who should be getting what.)
 
-##### 1.2 The State of Nature: Life Before or without Government
+#### 1.2 The State of Nature: Life Before or without Government
 + The state of Nature is used to explain the origin of government.
 + All ideologies include a view of human nature. Some ideologies are based on negative view of human nature and some are based on a more positive view of human nature.
 
@@ -53,7 +54,7 @@ contrast with positive rights, which are created by an act of government.
 + John Rawls. People create governments because they believe that life under government will more just, fairer, than life without government.
 + The idea of government based on a social contract has an especially strong appeal in the U.S. (colonial experience - Mayflower Compact, founding experience - Constitution)
 
-##### 1.3 Modern Government
+#### 1.3 Modern Government
 + **Anarchism** is the political philosophy that believes government is unnecessary and that government power is illegitimate because it is based on force or compulsion.
 +  The widespread acceptance of government as necessary—or at least a necessary
 evil—does not mean there is consensus on the _size_ and _role_ of government.
@@ -65,7 +66,7 @@ One reason for **government intervention** in the market is when there is a mark
 + _Monopoliess_
 + _Equity_
 
-##### 1.4 Why Politics
+#### 1.4 Why Politics
 Politics occurs in families, religious organizations, educational institutions, organized sports and entertainment, and the workplace.
 
 1.41 What is Politics?
@@ -79,7 +80,7 @@ Politics occurs in families, religious organizations, educational institutions, 
 1.42 What is Political Science?
 Political Science is the branch of the social sciences (e.g., economics, sociology) that systematically studies the theory and practice of government.
 
-##### 1.5 Political Values
+#### 1.5 Political Values
 1.51 Personal liberty (Individual Freedom)
 1.52 Social Order
 1.53 Justice
@@ -89,10 +90,10 @@ Political Science is the branch of the social sciences (e.g., economics, sociolo
 + **Authority** can be defined as the right to make other people do what you want. (Traditional, charismatic, rational)
 + **Legitimacy** refers to the appropriate ability to make others do what you want, the legal right to make others comply with demands
 
-##### 1.6 Citizenship
+#### 1.6 Citizenship
 A citizen is a member of the political community
 
-##### 1.7 The Forms of Government
+#### 1.7 The Forms of Government
 | Form     | Good Variation | Bad Variation |
 |----------|----------------|---------------|
 |The One   | Monarchy       | Tyranny/Autocracy |
@@ -105,7 +106,7 @@ A citizen is a member of the political community
 + In a republic, individuals do not directly govern themselves. Voters elect
 representatives who, as government officials, make laws for the people. This contrasts with a direct democracy, where voters choose public policies themselves.
 
-##### 1.8 Summary: Why Government and Politics
+#### 1.8 Summary: Why Government and Politics
 Government and politics occur almost everywhere because they are one of the ways that individuals organize themselves to achieve individual goals such as wealth, public safety, and education
 
-##### 1.9 Other Resources
+#### 1.9 Other Resources
