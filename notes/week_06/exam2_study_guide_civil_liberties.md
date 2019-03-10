@@ -4,6 +4,8 @@
 + Use the questions on pg 2 to guide your reading of the instructor lectures.
 
 1) Discuss the difference between civil liberties and civil rights. How do the two relate? Why are the concepts of civil rights and civil liberties not considered opposites? What is the appropriate balance of civil rights and civil liberties?
+
+
 2) Describe how the Bill of Rights was applied to state governments. Describe and explain the process of selective incorporation by which the supreme court applied the Bill of Rights to the states. Cite at least one example. What is the importance of the Fourteenth Amendment in this process?
 3) Where is the right to privacy found? Describe how the Supreme Court declared the right to privacy taking note of the evolution of Barron v. Baltimore, Griswold v. Connecticut (1965), Roe v. Wade, Lawrence v. Texas. What issues does the right to privacy surround? What are the current issues facing the Court relating to a person’s right to privacy?
 4) What are the two clauses relating to the right to practice religion? Compare and contrast the Free-Practice/Exercise and Establishment Clauses and the Lemon test and Sherbert test. Are these contradictory in any ways? Was there a conflict between Washington’s view and Jefferson’s view and how are their views seen/applied today?
@@ -19,18 +21,17 @@
 
 ### Lecture: Federalism
 
-Key Questions
-1. What is federalism and how does federalism distribute power?
-2. How is federalism different from a unitary or a confederal system of government?
-3. What powers does federalism reserve to the national government and what power does it reserve
-to the state governments?
-4. Does federalism, as some have argued, bring democracy "closer to the people"?
-5. What is 'dual federalism'?
-6. What is 'cooperative federalism'?
-7. What is 'fiscal federalism'?
-8. Over time, national power has expanded relative to state power. What are some reasons for this and some examples of this?
-9. What is devolution, or 'new federalism'?
-10. How does the supremacy clause and the tenth amendment relate to the issue of federalism?
-11. Necessary and Proper clause
+**Key Questions**
+1\. What is federalism and how does federalism distribute power?
+2\. How is federalism different from a unitary or a confederal system of government?
+3\. What powers does federalism reserve to the national government and what power does it reserve to the state governments?
+4\. Does federalism, as some have argued, bring democracy "closer to the people"?
+5\. What is 'dual federalism'?
+6\. What is 'cooperative federalism'?
+7\. What is 'fiscal federalism'?
+8\. Over time, national power has expanded relative to state power. What are some reasons for this and some examples of this?
+9\. What is devolution, or 'new federalism'?
+10\. How does the supremacy clause and the tenth amendment relate to the issue of federalism?
+11\. Necessary and Proper clause
 
 *The mid-term exam written response will ask you to draw parallels and significance to today, using current event examples of how federalism is applied to our lives, government and politics today.*
