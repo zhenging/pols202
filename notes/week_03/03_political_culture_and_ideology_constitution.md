@@ -15,15 +15,15 @@
 #### 2.4 The Founding Era
 
 #### 2.5 The Articles of Confederation
-The first Americna form of government was the _Articles of Confederation_.
+The first American form of government was the _Articles of Confederation_.
   + Second Article - Each state retains its sovereignty
   + Third Article - States severally enter into a firm league of friendship with each other.
 
 In a Confederation, political power is decentralized because the central government is weak and the state or regional governments are strong. The Articles has five major defects:
 1\. _Taxing_. The national government did not have the power to tax.
-2\. _Executive_. No executive branch, no judical branch. A representative body had the most power.
-3\. _Commerce_. Discriminateing out of state or foreign business interests.
-4\. _Amendment_. Unanimous consent is difficult to archieve.
+2\. _Executive_. No executive branch, no judicial branch. A representative body had the most power.
+3\. _Commerce_. Discriminating out of state or foreign business interests.
+4\. _Amendment_. Unanimous consent is difficult to achieve.
 5\. _Domestic Order_. Ineffectual response to domestic disturbances such as Shay's Rebellion and secessionist movement.
 
 #### 2.5 The Constitution
@@ -38,10 +38,10 @@ Federalists vs Anti-federalists
 3\. Guarantee Individual Rights (or Freedoms)
 
 ##### 2.52 The Bill of Rights
-The first ten amendment to the Constituion, commonly referred to as the _Bill of Rights_, provided for individual rights.
+The first ten amendment to the Constitution, commonly referred to as the _Bill of Rights_, provided for individual rights.
 
 
-#### 2.6 The Constitutionlism
+#### 2.6 The Constitutionalism
 
 #### 2.7 Continuity
 Compare the Constitution to other constitutions. (state constitutions, constitutions of other countries)

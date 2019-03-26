@@ -1,0 +1,13 @@
+### Prompt #1
+Video Discussion Question for Airport Security: According to the video, why did the Republicans eventually give in on the airport security bill? How did political leaders know what the public wanted? Is this example atypical of the power of public opinion? Be sure to offer some background in your post for others to have the context for your response.
+
+#### Part 1: Response
+In the wake of 9/11 attack, the public were concerned about the inadequate screening methods at airport and did not return for air travel. The Congress introduced legislation to improve security. Democratic party proposed to federalize all screeners at major airports and upgrade screening process, but the Republicans wanted to leave that issue to private contractors. Both parties stood firm and created a stalemate in the Congress. Finally a poll by ABC/Washington Post showed that over 55% of the public favored the federalization of airport screeners and 36% opposed that move. Though initially the Republicans didn't take the public opinion seriously and even passed a House version legislation to leave supervising and training of screeners to private contractors, in the even that an American airline jet crashed at the outskirt of New York city and public anxiety spiked again, the Republicans decided to give in and agreed to federalize screener on interim basis.
+This is an atypical example of the power of public opinion. Usually, people come from different background, such as gender, race, religion and family would have different opinions. It's difficult to identify public opinion, and once it's identified, it changes.
+However, timing played an critical role in the event. Americans were pulled together by the terrorist attack, which generally produce consensus. Any party underestimate such power would do so at its own peril, such as losing popularity and support from the public.
+
+#### Part 2: Application
+House votes to boost background checks as Democrats make biggest gun control push in years
+https://www.cnbc.com/2019/02/27/house-democrats-pass-gun-control-background-check-bill.html
+In a report from CNBC, the Democratic-held House passed a bipartisan bill to boost gun background checks on Wednesday, starting the most significant push Congress has taken to increase firearms regulations in 20 years. Though according to a Gallup survey in March 2018, 92 percent of Americans said they favor background checks for all gun sales, the bill would likely not get passed by the GOP-controlled Senate.
+In this example, even the percentage of public favoring background checks is as high as 97, it is still not strong enough to shape the policy agenda.

@@ -16,7 +16,7 @@ In the US, government includes the national government institution (Congress, th
 + Politics is about reconciling individual, ideological, and partisan differences of opinion about the power problem.
 
 1.13 Politics
-+ People have different opinions about whether their political system, or the political system of another country, allows too much indiividual freedom or provides too little public order. (The U.S. Constitution does not say very much about the specifics of where to strike the balance between rights and powers).
++ People have different opinions about whether their political system, or the political system of another country, allows too much individual freedom or provides too little public order. (The U.S. Constitution does not say very much about the specifics of where to strike the balance between rights and powers).
 + Political opinions about the right balance between individual rights and government power are influenced by conditions. (Is it a time of war or peace? ...)
 + American politics is often framed as debates about the size of government. These debates are familiar arguments about big government versus small government.
 
@@ -35,12 +35,12 @@ In the US, government includes the national government institution (Congress, th
 + All ideologies include a view of human nature. Some ideologies are based on negative view of human nature and some are based on a more positive view of human nature.
 
 1.21 John Locke
-+ The naturel state of man is to live free from oppresion and the will of man.
++ The natural state of man is to live free from oppression and the will of man.
 + The use of power or might without right—the fear that might makes right—is one reason why individuals decide to leave the state of nature and live under government.
 
 1.22 Jean-Jacques Rousseau
 + "Man is born free, and everywhere he is in chains.”"
-+ Life without government in a “state of nature” created problems or conditions that caused individuals to believe that living withgovernment would be an improvement.
++ Life without government in a “state of nature” created problems or conditions that caused individuals to believe that living with government would be an improvement.
 
 1.23 Influence on the American Founders
 + John Locke believed that individuals decided to leave the state of nature and live under government because government offered greater protection of their rights including the right to life, liberty, and property.
@@ -48,7 +48,7 @@ In the US, government includes the national government institution (Congress, th
 contrast with positive rights, which are created by an act of government.
 
 1.24 The Social Contract Theory of Government
-+ Hobbes, Locke, Rousseau, are classical political philosophers who are social contractarians. They advocate a social contract theory that provides a justification for creating government and operating it as acts of self-government. (The people have a duty to obey the law. The government has a responsibility to provide safe streets, national security, and other public goods. )
++ Hobbes, Locke, Rousseau, are classical political philosophers who are social contractions. They advocate a social contract theory that provides a justification for creating government and operating it as acts of self-government. (The people have a duty to obey the law. The government has a responsibility to provide safe streets, national security, and other public goods. )
 + Social contract theory is identified with self-government because it is based on popular sovereignty.
 + John Stuart Mill. Harm Principle (considered libertarian)
 + John Rawls. People create governments because they believe that life under government will more just, fairer, than life without government.
