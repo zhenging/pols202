@@ -1,0 +1,13 @@
+#### Prompt #1: Ideology 
+Trace the evolution of one of the ideologies as described by Lenz and Holman. Discuss its classical form and its more modern form - eg. classical liberalism distinction from modern liberalism or traditional conservatism (Burke's reaction to the French revolution) evolution to the new right/neoliberal/neoconservative or socialism's evolution through classic and neo-Marxism among other choices.
+Explain why it’s important to understand this ideology and its evolution in American politics and what the modern form has to offer people who hold this ideology. Examine both the ideology’s strengths and shortcomings.
+
+#### Part 1: Response
+Liberalism did not emerge as a developed political creed until the early nineteenth century, distinctively liberal theories and principles had gradually been developed during the previous 300 years. The key ideas of liberalism include individualism, freedom, human reason, equality, toleration, consent and constitutionalism.
+The central theme of classical liberalism is a commitment to an extreme form of individualism. The classical liberalism ideal is the establishment of a minimal or ‘nightwatchman’ state, with a role that is limited to the protection of citizens from the encroachments of fellow citizens (LH, 7).
+Modern liberalism is characterized by a more sympathetic attitude towards state intervention. In the view of modern liberalism, state intervention, particularly in the form of social welfare can enlarge liberty by safeguarding individuals from the social evils that blight individual existence. However, their support for collective provision and government intervention has always been conditional. Their goal is to raise individuals to the point where they are able, once again, to take responsibility for their own circumstance and make their own moral choice.
+
+#### Part 2: Application
+Warren’s Plan Is Latest Push by Democrats to Raise Taxes on the Rich
+https://www.nytimes.com/2019/01/24/us/politics/wealth-tax-democrats.html
+Taxing the rich is always an controversial topic and causes heated exchange between the liberal Democrats and the conservative Republicans. Recently, senator Elizabeth Warren of Massachusetts, a Democratic candidate for president, is expected to unveil a plan that would impose a new annual tax on the 75,000 wealthiest families in the United States. Her plan is to tax the rich to pay for expanded social programs and distribute wealth more evenly. This is a part of the liberal Democrats’ effort to redistribute social wealth from the super rich to low-income people. However, the conservative groups have criticized such move would hurt the economy.

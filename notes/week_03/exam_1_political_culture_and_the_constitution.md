@@ -1,12 +1,12 @@
 ### Political Culture and the Constitution
 
 >Reading
-Pdf Readings Lenz and Holman
+PDF: Lenz and Holman - Constitution
 
 #### Exam #1 Study Guide & Discussion Forum Questions
-+ Use the question on pg 1 to guide your reading of the the Lenz and Holman pdf in the module.
-+ Use the question on pg 2 to guide your reading of the instructor lecture and to prepare for the Midterm Exam short answer writen response.
-+ Addionally, choose from the questions on pgs 1 and 2 to prepare your Forum write-up post.
++ Use the question on pg 1 to guide your reading of the the Lenz and Holman PDF in the module.
++ Use the question on pg 2 to guide your reading of the instructor lecture and to prepare for the Midterm Exam short answer written response.
++ Additionally, choose from the questions on pgs 1 and 2 to prepare your Forum write-up post.
 
 1\. The idea of government by rule of law vs rule by man has ancient roots. Compare and contrast classical Greek and Roman political thought on rule of law with the English and French political philosophers.
 
@@ -16,7 +16,7 @@ Pdf Readings Lenz and Holman
 
 4\. What was the general purpose of the Declaration of Independence and what are the overarching ideas introduced in the document? Which political theorist is credited with influencing Jefferson and the ideas he put forth and which ideas influenced it? In your opinion, how close are we to achieving those aspirations today?
 
-5\. Describe America’s first government aer the colonists broke from England. How was it organized? Where was most of the power located? What was successful and what was a failure?
+5\. Describe America’s first government after the colonists broke from England. How was it organized? Where was most of the power located? What was successful and what was a failure?
 
 6\. Understand separation of powers and checks and balances. Know and understand the French political philosopher Montesquieu’s influence on our Constitution basic governing doctrines.
 
