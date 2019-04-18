@@ -1,4 +1,4 @@
-### Quiz Study Guide & Discussion Questions: Campaigns & Elections
+### Exam 4: Campaigns & Elections
 
 + Use the questions on pg 1 to guide your reading of Morone & Kersh Cp. 8 and instructor lectures.
 + Choose from the following questions to prepare your Forum write-up.

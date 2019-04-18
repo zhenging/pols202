@@ -1,4 +1,4 @@
-### Quiz Study Guide & Discussion Questions: Interest Groups & Parties
+### Exam 4: Interest Groups & Parties
 
 + Use the questions on pg 1 to guide your reading of MK Cp. 9 and instructor lectures.
 + Choose from the following questions to prepare your Forum write-up.
