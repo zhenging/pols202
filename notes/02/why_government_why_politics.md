@@ -39,8 +39,8 @@ In the US, government includes the national government institution (Congress, th
 + The use of power or might without right—the fear that might makes right—is one reason why individuals decide to leave the state of nature and live under government.
 
 1.22 Jean-Jacques Rousseau
-+ "Man is born free, and everywhere he is in chains.”"
-+ Life without government in a “state of nature” created problems or conditions that caused individuals to believe that living with government would be an improvement.
++ "Man is born free, and everywhere he is in chains.""
++ Life without government in a "state of nature" created problems or conditions that caused individuals to believe that living with government would be an improvement.
 
 1.23 Influence on the American Founders
 + John Locke believed that individuals decided to leave the state of nature and live under government because government offered greater protection of their rights including the right to life, liberty, and property.

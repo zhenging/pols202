@@ -3,7 +3,7 @@
 + Use the questions on pg 1 to guide your reading of MK Cp. 9 and instructor lectures.
 + Choose from the following questions to prepare your Forum write-up.
 
-1\. Define interest groups and explain the three key roles interest groups play for their members. What was James Madison’s concern against interests and what was his solution? Would he support or dissuade our present state of interest groups?
+1\. Define interest groups and explain the three key roles interest groups play for their members. What was James Madison's concern against interests and what was his solution? Would he support or dissuade our present state of interest groups?
 > p.284
 + The Many Roles Interest Groups Play (Informing Members, Communicating Member's View, and Mobilizing the Public)
 + James Madison's Concern. **Pluralism**. The answer to the problem of interest groups is more interest groups. (p.288)
@@ -20,14 +20,14 @@
 + Citizen or Public Interest Groups
 + Intergovernmental Groups
 
-4\. Elaborate on the multiple roles played by lobbyists working in the nation’s capital. Describe the traditional “iron triangle” and its the three actors. What are issue networks and how do they compare to iron triangles?
+4\. Elaborate on the multiple roles played by lobbyists working in the nation's capital. Describe the traditional "iron triangle" and its the three actors. What are issue networks and how do they compare to iron triangles?
 >p.292
 + The multiple roles of lobbyists. (Researchers, Witnesss, Position Takers, Coalition Builders, Social Butterflies)
 + Iron Triangle. Connected interest groups, congressional committee chairs, and administration officials.
 
 5\. Make two cases: 1. a case for why interest group involvement in the policymaking process is a bad thing or a negative; 2. make a case for why interest group involvement in the policymaking process is a good thing or a positive.
 
-6\. Compare and contrast a two-party political system with a multiparty political system. Discuss the pros and cons of America’s two-party dominance.
+6\. Compare and contrast a two-party political system with a multiparty political system. Discuss the pros and cons of America's two-party dominance.
 >p.304
 + The advantage of America's two-party system is its predictability and stablity.
 
@@ -44,7 +44,7 @@
 10\. What are the DNC and RNC and what function do they perform? Discuss the party platform, party in government & party in the electorate.
 >p.301
 
-11\. Why are the two major political parties in the United States considered “big tent” parties? Within this context discuss the fall and then the rise of parties and partisanship. What is meant by the term divided government?
+11\. Why are the two major political parties in the United States considered "big tent" parties? Within this context discuss the fall and then the rise of parties and partisanship. What is meant by the term divided government?
 >p.314
 
 12\. Has the United States grown too partisan? or does democracy need parties to flesh out and debate the merit of ideas? Or do both sides have merit? (Morone and Kersh lay out nice arguments for this on pp. 316-318)

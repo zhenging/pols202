@@ -1,6 +1,6 @@
 **PROMPT POSSIBILITY #2: Instructor Lecture Constitutional Convention Compromises**
 Answer the following prompt in 3 robust paragraphs: Using the lecture material, explore the central components of the major debates and compromises made at the Constitutional Convention of 1787 and make an application to current events today. A quality essay will have a clear thesis and will address the following:
-1. Describe the basic underpinnings of the Electoral College and the framers’ concerns. Offer an analysis of how the electoral college helped alleviate concerns held by the framers.
+1. Describe the basic underpinnings of the Electoral College and the framers' concerns. Offer an analysis of how the electoral college helped alleviate concerns held by the framers.
 2. Describe and explain the differences between the Virginia Plan and the New Jersey Plan. Offer an analysis of the Compromise that was eventually reached.
 
 3. Using the current events discussed in our discussions", or current events you're following in major news sources, draw parallels and significance to today for one of the compromises (Electoral College or Connecticut Compromise). Make a clear connection to your current event and one of the compromises discussed in your response.

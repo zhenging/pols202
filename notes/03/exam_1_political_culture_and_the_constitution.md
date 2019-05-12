@@ -16,10 +16,10 @@ PDF: Lenz and Holman - Constitution
 
 4\. What was the general purpose of the Declaration of Independence and what are the overarching ideas introduced in the document? Which political theorist is credited with influencing Jefferson and the ideas he put forth and which ideas influenced it? In your opinion, how close are we to achieving those aspirations today?
 
-5\. Describe America’s first government after the colonists broke from England. How was it organized? Where was most of the power located? What was successful and what was a failure?
+5\. Describe America's first government after the colonists broke from England. How was it organized? Where was most of the power located? What was successful and what was a failure?
 
-6\. Understand separation of powers and checks and balances. Know and understand the French political philosopher Montesquieu’s influence on our Constitution basic governing doctrines.
+6\. Understand separation of powers and checks and balances. Know and understand the French political philosopher Montesquieu's influence on our Constitution basic governing doctrines.
 
 7\. Understand the basic purpose of the Bill of Rights as opposed to the purpose of the Constitution. What purpose does the Bill of Rights serve in the context of majority rule and individual rights.
 
-8\. Compare and contrast Jefferson’s noon with Sanford Levinson. Should our Constitution, Like food products, have an expiration date? Do you agree or disagree with either view? Back up your own view with support from our readings.
+8\. Compare and contrast Jefferson's noon with Sanford Levinson. Should our Constitution, Like food products, have an expiration date? Do you agree or disagree with either view? Back up your own view with support from our readings.

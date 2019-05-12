@@ -30,7 +30,7 @@ The Anti-Federalists were not interested in a centralized nation.
 1. Which form of government (a large national republic or a confederation of small republics) is more likely to preserve and protect personal liberties and why?
 2. Can a larger republic, based on the principle of consent of the governed, sufficiently protect the rights and liberties of the individual states and people, or is a confederation the only method of securing such liberty?
 3. Should the federal legislature be able to repeal state laws in order to impose federal laws for the purpose of promoting the general welfare or common defense of the nation? If so, why? If not, why?
-4. Brutus argues that in a republic, “the manners, sentiments, and interests of the people should be similar…if not, there will be a constant clashing of opinions and the representatives of one part will be constantly striving against the other.”Should a republic be made up of a small group of like-minded people? Or, is diversity of opinion beneficial to the success of a federal government?
+4. Brutus argues that in a republic, "the manners, sentiments, and interests of the people should be similar…if not, there will be a constant clashing of opinions and the representatives of one part will be constantly striving against the other."Should a republic be made up of a small group of like-minded people? Or, is diversity of opinion beneficial to the success of a federal government?
 
 
 
@@ -41,9 +41,9 @@ If the new government leads to a loss of liberty, then America, the place where 
 The people must be careful about parting with power  (as in creating a strong central government) because they are unlikely to ever get it back.
 In the confederation government (as in the Articles of Confederation), most of the powers belongs to the states. In a consolidated government (as in the 1787 Constitution) most of the power belongs to the central, or national government.
 The new constitution places so much power in a central government that the state government may no longer be able to function as republics under the control of their citizens.
-The “necessary and proper” clause and the “supreme law of the land” clause make the central government an uncontrollable power over the topics that the Constitution covers.
+The "necessary and proper" clause and the "supreme law of the land" clause make the central government an uncontrollable power over the topics that the Constitution covers.
 It is true that the constitution lists certain enumerated powers that will belong to the central government, reserving some minor power to the states, but all the important powers are delegated to the central government.
-There is no practical limit to the national legislature's power to tax because the legislature itself decides what is meant by “common defense” and “general welfare”
+There is no practical limit to the national legislature's power to tax because the legislature itself decides what is meant by "common defense" and "general welfare"
 The authority to tax is the most important power a government can be given because it is related to all other powers that governments can have.
  Federal courts will destroy the state courts.
  The legislature has broad powers with few limits; the necessary and proper clause invalidates any limits and may result in destroying the state governments.
@@ -55,7 +55,7 @@ In such a large country it will be too hard for the representatives to really kn
  The diverse interest in a large republic will continually argue against each other.
  (Europe) Standing armies in peacetime are a danger to liberty.
  A free republic does not need a standing army to enforce its laws.Because of all these problems, the people will have little confidence in their legislature and will not support the laws it passes.
- The legislature cannot be large enough to be truly representative of the people’s interests.
+ The legislature cannot be large enough to be truly representative of the people's interests.
  Representatives elected in such a large republic would soon beyond control by the people and abuse their power for selfish and corrupt purpose.
 Powerful elective officers will attract ambitious and sneaky men who are likely to abuse their power.
 

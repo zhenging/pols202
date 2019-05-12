@@ -1,0 +1,13 @@
+### Prompt 2
+Discuss the two different styles of each house. Which chamber more closely represents the American tradition of direct democracy and which represents fear of government power.  In your answer make reference to the “tea and saucer” metaphor.
+
+#### Part 1: Response
+Congress reflects two faces of the American people in its basic makeup. As with most other national legislative, Congress is bicameral - comprising "two houses". The House Representatives is the largest chamber and includes 435 members, divided among the states abased on population size. The House is organized around a relatively clear set of rules and procedures. The majority party wields centralized control, through a powerful leadership team .
+The smaller Senate is made up of one hundred members, two from each U.S State, each eelected for a six-year term. Each senator possesses a remarkable degree of autonomy, especially compared to the average House member. Any senator, even the most junior, is able to halt the entire body's consideration of a bill merely by placing a legislative hold (MK, 329).
+The two congressional chambers present a familiar contrast in the United State. Americans embrace direct democracy and the centralized House can move swiftly on national legislative priorities. Americans also fear government power and seek stability: enter the independent senators, slowing legislation down with filibuster and holds.
+The "tea and saucer" metaphor refers to the relation between the House and the Senate. According to Washington, "We pour House legislation into the senatorial saucer to cool it down"(MK, 329).
+
+#### Part 2: Application
+Senate GOP rejects House Obamacare bill
+https://www.politico.com/story/2017/05/04/house-health-care-bill-senate-doa-238000
+When it comes to health care bill, the two chambers have not coordinated much as they hold different agenda on the matter. Each house comes with their own version of bills. The Republican-Controlled Senate planned to shrink and reshape the tax credit that subsidize insurance, and allow insurers to charge more to sick people than healthy people, that could effectively price people with pre-existing medical problem out of the market. The House favored making tax credit more generous and strengthening proptection for people with pre-existing conditions. However, for the bill to pass, the House and Senate have to work out their disagreements. In this case, the House and Senate weigh in the law making process. No one chamber is more prominent than the other, so that the law they make are to the best interest of the people of the Americans.

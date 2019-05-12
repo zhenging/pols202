@@ -3,8 +3,8 @@ How does the United States choose the president? What were the concerns held by 
 
 #### Part 1
 The United State President belongs to the executive branch. It would be chosen every 4 years for a possible unlimited amount of terms. (This was changed in 1951, and the number of terms is limited to 2.)  The president is elected by the Electoral College, which is a body of electors from each state.
-During presidential election, each state selects a group of electors and these electors would cast the vote for each state. Each state would have the same number of electors as it had members in Congress. This means the state’s population would matter in voting for the president, but that each state was assured of the two equal votes reflecting the 2 seats in the senate. Electors are chosen by the people of each state. All the electors in a state generally cast their votes for the candidate who won the state.
-The framers worried that a single executive would grow too powerful and become as Governor Randolph described “the fetus of monarchy”. Others feared that without strong executive, to “check” the power of the legislature, the legislature could itself become too powerful.
+During presidential election, each state selects a group of electors and these electors would cast the vote for each state. Each state would have the same number of electors as it had members in Congress. This means the state's population would matter in voting for the president, but that each state was assured of the two equal votes reflecting the 2 seats in the senate. Electors are chosen by the people of each state. All the electors in a state generally cast their votes for the candidate who won the state.
+The framers worried that a single executive would grow too powerful and become as Governor Randolph described "the fetus of monarchy". Others feared that without strong executive, to "check" the power of the legislature, the legislature could itself become too powerful.
 
 #### Part 2: Application
 President Trump Will Not Declare a National Emergency During the State of the Union: Report

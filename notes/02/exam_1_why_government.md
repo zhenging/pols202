@@ -12,7 +12,7 @@ PDF Readings: Lenz and Holman - Why Government, Why Politics?
 
 2\. Understand the power problem and what is the relationship between the power problem, government, and police?
 
-3\. Many political questions about the right size and proper role of government are actually questions about whether a political system is a just system. While Justice as a concept, is hard to precisely define, let’s make an attempt. Offer a discussion of how one can define and discuss juice.
+3\. Many political questions about the right size and proper role of government are actually questions about whether a political system is a just system. While Justice as a concept, is hard to precisely define, let's make an attempt. Offer a discussion of how one can define and discuss juice.
 
 4\. What is liberty? Understand how the debate of liberty is framed. Understand the differences between plosive and negave liberty. Is it possible—or even a good thing—to have one without the other?
 
@@ -22,7 +22,7 @@ PDF Readings: Lenz and Holman - Why Government, Why Politics?
 
 7\. Government and politics are concerned with values. Understand some of the most important political values reviewed in the lecture (personal liberty, social order, juice, equality.)
 
-8\. Compare and contrast the the noons of **political power, authority, and legitimacy**. Include an understanding of Max Weber’s three types of authority.
+8\. Compare and contrast the the noons of **political power, authority, and legitimacy**. Include an understanding of Max Weber's three types of authority.
 
 9\. Compare and contrast the theorists/philosophers as reviewed in the lecture and readings. Which do you align with more and why?
 

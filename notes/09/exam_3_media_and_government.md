@@ -14,10 +14,10 @@
 >p.226
 
 + **Policy agenda**: The issues the media covers, the public considers important, and politicians address.
-+ **Priming**: Affecting voters’ or poll respondents’ perception of candidates or public officials by raising issues that are perceived to enhance or diminish the candidates.
++ **Priming**: Affecting voters' or poll respondents' perception of candidates or public officials by raising issues that are perceived to enhance or diminish the candidates.
 + **Framing**: The way an issue is defined; every issue has many possible frames, each with a slightly different tilt in describing the problem and highlighting solutions.
 
-3\. Describe changes in the sources of political news that have taken place since the rise of the first mass media in the 1830’s. Include a discussion of the first media­d-driven war, which forms have lost ground, and which forms have held steady.
+3\. Describe changes in the sources of political news that have taken place since the rise of the first mass media in the 1830's. Include a discussion of the first media­d-driven war, which forms have lost ground, and which forms have held steady.
 >p.228
 **mass media**: Information and entertainment for broad popular audiences-including newspapers, magazines, radio, and television.
 
@@ -26,10 +26,10 @@
 + Television: From News to Infotainment
 + The Rise of the new Media
 
-4\. What are the different types of “new media?” How might the Internet compromise democratic processes and accountability?
+4\. What are the different types of "new media?" How might the Internet compromise democratic processes and accountability?
 > Internet and social media
 
-5\. How have new technologies and “new media” altered the nature and quality of news reporting; historically and today? Discuss the irony of the relationship between new and old media ­ what do new media outlets still primarily rely on for sources of stories?
+5\. How have new technologies and "new media" altered the nature and quality of news reporting; historically and today? Discuss the irony of the relationship between new and old media ­ what do new media outlets still primarily rely on for sources of stories?
 >p.232
 "Still, the new outlets primarily rely on old media sources which they are choking off..."
 
@@ -56,24 +56,24 @@ Watergate scandal
 + Important stories may get lost
 + newspaper and other traditional madia tend to include a variety of viewpoints.
 
-10\. What effect does “new media” have on attempts to control information in authoritarian regimes? Define and use the term censorship in your answer.
+10\. What effect does "new media" have on attempts to control information in authoritarian regimes? Define and use the term censorship in your answer.
 >ppt p.28
 
 Censorship
 + In authoritarian nation-states, censorship is often the norm.
 + However, new technologies are opening these societies up and information is now more difficult to monopolize and control.
 
-11\. How can “new media” enhance or hamper the quality of political discourse?
+11\. How can "new media" enhance or hamper the quality of political discourse?
 >p.232
 
-12\. How can the media’s tendency to cover conflict including military conflict and election conflict ­be both a positive and a negative?
+12\. How can the media's tendency to cover conflict including military conflict and election conflict ­be both a positive and a negative?
 > p.242
 
 Reporting on war and terrorism has long attracted more viewers than almost any other political story.
 
 + Covering Wars and Terrorism
   + Concern over sensationalist portrayal of events.
-  + Concern that media coverage not give “aid and comfort to America’s enemies.”
+  + Concern that media coverage not give "aid and comfort to America's enemies."
   + Concern that extensive media coverage of terrorist attacks may actually heighten the chance of a subsequent attack, as misguided actors seek journalistic fame through terrible crimes.
 + The Campaign as Drama
   + sound bite
@@ -87,7 +87,7 @@ Reporting on war and terrorism has long attracted more viewers than almost any o
 1. The media sketches a profile of each candidate—simplistic, exaggerated, and very hard to escape.
 2. That image then shapes future coverage.
 3. Once the portrait develops, it reverberates through the world of infotainment.
-4. Behavior that “fits” immediately gets airtime, reinforcing the narrative
+4. Behavior that "fits" immediately gets airtime, reinforcing the narrative
 
 #### Conclusion
 The United States consumes programs and programming in hundreds of languages and offers one answer to our question: **Who are we?**

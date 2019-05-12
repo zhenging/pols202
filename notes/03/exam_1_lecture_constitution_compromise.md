@@ -5,7 +5,7 @@
 ##### Constitutional Compromises Lecture
 Using the lecture material explore the central components of the major debates and compromises made at the Constitutional Convention of 1787.
 
-1\. Know and understand the connections between the weaknesses in the Articles of Confederation, “Shays’ Rebellion”, and the constitutional convention. How did the Article’s failures create a theoretical dilemma for the framers at the Constitutional Convention?
+1\. Know and understand the connections between the weaknesses in the Articles of Confederation, "Shays' Rebellion", and the constitutional convention. How did the Article's failures create a theoretical dilemma for the framers at the Constitutional Convention?
 
 2\. How does the United States choose the president? What were the concerns held by the framers? Understand the basic underpinnings of the Electoral College.
 

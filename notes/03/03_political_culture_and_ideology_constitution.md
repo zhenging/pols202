@@ -58,7 +58,7 @@ Compare the Constitution to other constitutions. (state constitutions, constitut
 ##### A Constitutional Convention is Called
 The Dilemma:
 1\. The fear of government being too strong. (power abuse by the British Crown)
-2\. The concerns of government being too week. (Shays’s Rebellion)
+2\. The concerns of government being too week. (Shays's Rebellion)
 
 ##### Constitutional Debates:
 + National Government Power vs. State Government Power Debate
@@ -66,7 +66,7 @@ The Dilemma:
 + **Virginia Plan** (Big States)
   + Three branches of government. Legislative branch made laws, the Executive Branch enforced the laws, and the Judicial branch would interpret laws
   + A two-house legislature with the lower house elected directly by the people and the upper house selected by the lower;
-  + Representation in both houses was based on a state’s population or wealth;
+  + Representation in both houses was based on a state's population or wealth;
   + An executive elected by Congress (this is the parliamentary system found in the UK); a national judiciary; and congressional veto over state laws.
 + **New Jersey Plan** (Small States)
   + A unicameral (one-house) Congress in which each state had an equal vote, and called for Congress to have the powers of taxation and regulation.

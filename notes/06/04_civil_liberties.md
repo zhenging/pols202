@@ -49,7 +49,7 @@ The First Amendment states: _Congress shall make no laws ... abridging the freed
 #### Political Speech
 + [_Schencks v. United State, 1919_](https://www.oyez.org/cases/1900-1940/249us47).
   * Speech is not protected if it poses a "*clear and present danger*" that it will lead to substantive evil.
-  * The Court held that the Espionage Act did not violate the First Amendment and was an appropriate exercise of Congress’ wartime authority.
+  * The Court held that the Espionage Act did not violate the First Amendment and was an appropriate exercise of Congress' wartime authority.
   * **Clear and present danger**. Court doctrine that permits restrictions of free speech if officials believe that the speech will lead to prohibited action such as violence or terrorism.
 
 + [_Branndenburg v. Ohio (1969)_](https://www.oyez.org/cases/1968/492).

@@ -6,16 +6,16 @@
 1\. Describe what is historically distinctive about American elections by explaining the central role of states (make reference to the constitutional clause granting states - "time, place, and manner")
 >p.252
 
-2\. Based on the instructor lecture, understand the long road toward women’s suffrage including the many phases from pre-civil war to 1920.
+2\. Based on the instructor lecture, understand the long road toward women's suffrage including the many phases from pre-civil war to 1920.
 >19th Amendment: "The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex." "Congress shall have the power to enforce this article by appropriate legislation".
 
-3\. Discuss/describe the American system of campaign finance - PAC’s, super PAC’s. What influence on the system did the 2014 McCutcheon v. FEC Supreme Court decision have and Citizens United v. FEC?
+3\. Discuss/describe the American system of campaign finance - PAC's, super PAC's. What influence on the system did the 2014 McCutcheon v. FEC Supreme Court decision have and Citizens United v. FEC?
 >p.258
 
 4\. In the last half-century, until Donald Trump, both parties only nominated candidates with one of three offices on their resume—vice president, governor, or senator. Discuss/analyze the effect these prior offices had on outcome to a presidential candidacy?
 >p.260
 
-5\. Explain what a **caucus** is (two places in course text: 253, 263) and a primary. Explain the significance of Iowa’s caucuses and New Hampshire’s primary and the implications. Do you believe that they should continue to have such an important say in choosing a president? What are the two sides to this?
+5\. Explain what a **caucus** is (two places in course text: 253, 263) and a primary. Explain the significance of Iowa's caucuses and New Hampshire's primary and the implications. Do you believe that they should continue to have such an important say in choosing a president? What are the two sides to this?
 >p.253, p.263
 
 6\. Describe the three distinct stages of presidential campaigns. Offer examples. Review the relationship of national parties and states when deciding primary election calendars.
@@ -33,7 +33,7 @@
 10\. Discuss the significance of the first televised presidential debate, held in 1960.
 >p.266
 
-11\. Discuss the political science data that explains how Donald Trump won the Republican nomination for president; how he won the primaries; how he won the presidency. Why were most Washington insiders concerned at Trump’s foreign policy statements?
+11\. Discuss the political science data that explains how Donald Trump won the Republican nomination for president; how he won the primaries; how he won the presidency. Why were most Washington insiders concerned at Trump's foreign policy statements?
 >p.264
 
 12\. Were there different behavioral standards set for Hillary Clinton when she ran for the presidency because she was a woman? If so, why?

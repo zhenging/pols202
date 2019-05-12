@@ -4,7 +4,7 @@
 + Use the questions on pg 1 to guide your reading of Morone & Kersh Cp. 6
 + Additionally, choose from the following questions to prepare your Forum write‐up.
 
-1\. Discuss the factors affecting Political Socialization. Do you agree with Morone and Kersh’s assertions of the influences that affect how one thinks politically?
+1\. Discuss the factors affecting Political Socialization. Do you agree with Morone and Kersh's assertions of the influences that affect how one thinks politically?
 > p.187
 
 + Political Socialization
@@ -20,7 +20,7 @@ Polling Bloopers
 3\. What conditions must be met for a poll to be considered reliable and valid? Discuss the importance of: the random sample, sample size, timing of a poll, framing effects, margin of error.
 >p.192
 
-4\. Discuss the notion of “Lies, Damn Lies, and Polls”. Discuss the difference between a “push poll” and a scientific survey. Compare the bandwagon and boomerang effects relating to opinion polling.
+4\. Discuss the notion of "Lies, Damn Lies, and Polls". Discuss the difference between a "push poll" and a scientific survey. Compare the bandwagon and boomerang effects relating to opinion polling.
 >p.195
 push poll (p.192)
 **Bandwagon Effect** (p.195)
@@ -30,13 +30,13 @@ push poll (p.192)
 **Boomerang Effect**(p.195)
 + Candidate who has been consistently ahead in opinion surveys performs more poorly than expected on Election Day.
 
-5\. Describe the two competing perspectives on the importance of public opinion in a democracy and include a discussion on the merits of Walter Lippmann’s 1922 commentary that “The masses are asses” vs arguments for the “public is rational”. Make reference to the importance of publications such as ­ The American Voter and The Rational Public.
+5\. Describe the two competing perspectives on the importance of public opinion in a democracy and include a discussion on the merits of Walter Lippmann's 1922 commentary that "The masses are asses" vs arguments for the "public is rational". Make reference to the importance of publications such as ­ The American Voter and The Rational Public.
 >p.196
 
 + Ignorant Masses (Walter Lippmann)
 + The Rational Public
 
-6\. Discuss the similarities and differences between Surowiecki’s perspective in The Wisdom of Crowds and the concept of group think. Discuss situations that might exhibit this. .
+6\. Discuss the similarities and differences between Surowiecki's perspective in The Wisdom of Crowds and the concept of group think. Discuss situations that might exhibit this. .
 >p.197
 **group think**
 + The tendency among a small group of decision makers to converge on a shared set of views. It can limit creative thinking or solutions to policy problems.
